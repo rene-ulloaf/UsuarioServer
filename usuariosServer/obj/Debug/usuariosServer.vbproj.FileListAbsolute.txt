@@ -1,0 +1,14 @@
+C:\Documents and Settings\rulloa\Configuración local\Datos de programa\Temporary Projects\usuariosServer\bin\Debug\usuariosServer.exe
+C:\Documents and Settings\rulloa\Configuración local\Datos de programa\Temporary Projects\usuariosServer\bin\Debug\usuariosServer.pdb
+C:\Documents and Settings\rulloa\Configuración local\Datos de programa\Temporary Projects\usuariosServer\bin\Debug\usuariosServer.xml
+C:\Documents and Settings\rulloa\Configuración local\Datos de programa\Temporary Projects\usuariosServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\rulloa\Configuración local\Datos de programa\Temporary Projects\usuariosServer\obj\Debug\usuariosServer.frmVerUsuarios.resources
+C:\Documents and Settings\rulloa\Configuración local\Datos de programa\Temporary Projects\usuariosServer\obj\Debug\usuariosServer.Resources.resources
+C:\Documents and Settings\rulloa\Configuración local\Datos de programa\Temporary Projects\usuariosServer\obj\Debug\usuariosServer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\rulloa\Configuración local\Datos de programa\Temporary Projects\usuariosServer\obj\Debug\usuariosServer.exe.licenses
+C:\Documents and Settings\rulloa\Configuración local\Datos de programa\Temporary Projects\usuariosServer\obj\Debug\usuariosServer.exe
+C:\Documents and Settings\rulloa\Configuración local\Datos de programa\Temporary Projects\usuariosServer\obj\Debug\usuariosServer.xml
+C:\Documents and Settings\rulloa\Configuración local\Datos de programa\Temporary Projects\usuariosServer\obj\Debug\usuariosServer.pdb
+C:\Documents and Settings\rulloa\Mis documentos\Mios\Nueva carpeta\usuariosServer\usuariosServer\obj\Debug\usuariosServer.exe
+C:\Documents and Settings\rulloa\Mis documentos\Mios\Nueva carpeta\usuariosServer\usuariosServer\obj\Debug\usuariosServer.xml
+C:\Documents and Settings\rulloa\Mis documentos\Mios\Nueva carpeta\usuariosServer\usuariosServer\obj\Debug\usuariosServer.pdb
